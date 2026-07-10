@@ -1,0 +1,3 @@
+0 Camels
+1 Lion
+2 monkey 
